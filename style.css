@@ -6,36 +6,27 @@ text-align:center;
 margin:0;
 }
 
-.header{
-padding:15px;
-}
-
 .logo{
-width:100px;
+width:110px;
 margin:auto;
 display:block;
 }
 
 h1{
-font-size:24px;
-letter-spacing:2px;
+font-size:26px;
 }
 
 button{
-padding:16px;
+padding:20px;
 margin:10px;
-font-size:17px;
-border-radius:15px;
-width:80%;
-max-width:320px;
+font-size:20px;
+border-radius:18px;
+width:85%;
+max-width:350px;
 border:none;
 color:white;
 font-weight:bold;
-box-shadow:0 4px 10px rgba(0,0,0,0.4);
-}
-
-button:hover{
-transform:scale(1.05);
+box-shadow:0 4px 12px rgba(0,0,0,0.5);
 }
 
 .piso{background:#ff6b6b;}
@@ -51,15 +42,21 @@ background:#576574;
 
 .list{
 text-align:left;
-max-width:420px;
+max-width:500px;
 margin:auto;
-font-size:18px;
-background:rgba(0,0,0,0.3);
-padding:15px;
-border-radius:15px;
+font-size:22px;
+background:rgba(0,0,0,0.35);
+padding:20px;
+border-radius:20px;
+}
+
+.item{
+display:flex;
+align-items:center;
+padding:10px 0;
 }
 
 input[type="checkbox"]{
-transform:scale(1.4);
-margin-right:10px;
+transform:scale(1.8);
+margin-right:15px;
 }
