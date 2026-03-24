@@ -7,26 +7,27 @@ margin:0;
 }
 
 .logo{
-width:110px;
-margin:auto;
+width:120px;
+margin:10px auto;
 display:block;
 }
 
 h1{
-font-size:26px;
+font-size:28px;
+margin-bottom:10px;
 }
 
 button{
-padding:20px;
-margin:10px;
-font-size:20px;
-border-radius:18px;
-width:85%;
-max-width:350px;
+padding:26px;
+margin:12px auto;
+font-size:22px;
+border-radius:22px;
+width:95%;
 border:none;
 color:white;
 font-weight:bold;
-box-shadow:0 4px 12px rgba(0,0,0,0.5);
+display:block;
+box-shadow:0 6px 16px rgba(0,0,0,0.6);
 }
 
 .piso{background:#ff6b6b;}
@@ -42,21 +43,21 @@ background:#576574;
 
 .list{
 text-align:left;
-max-width:500px;
+width:95%;
 margin:auto;
-font-size:22px;
-background:rgba(0,0,0,0.35);
-padding:20px;
-border-radius:20px;
+font-size:26px;
+background:rgba(0,0,0,0.4);
+padding:25px;
+border-radius:22px;
 }
 
 .item{
 display:flex;
 align-items:center;
-padding:10px 0;
+padding:14px 0;
 }
 
 input[type="checkbox"]{
-transform:scale(1.8);
-margin-right:15px;
+transform:scale(2.2);
+margin-right:18px;
 }

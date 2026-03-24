@@ -20,14 +20,14 @@ function toggle(id,val){
 }
 
 function setBack(fn){
- document.getElementById("nav").innerHTML=`<button class='back' onclick="${fn}">⬅ Regresar</button>`;
+ document.getElementById("nav").innerHTML=`<button class='back' onclick="${fn}">⬅ REGRESAR</button>`;
 }
 
 function showHome(){
  document.getElementById("nav").innerHTML="";
  document.getElementById("content").innerHTML=`
- <button onclick="showGroups()">👥 Por Grupo</button>
- <button onclick="showAthletes()">👤 Por Atleta</button>
+ <button onclick="showGroups()">👥 POR GRUPO</button>
+ <button onclick="showAthletes()">👤 POR ATLETA</button>
  `;
 }
 
@@ -61,7 +61,7 @@ function showGroupAparato(g,a){
  let html="<div class='list'>";
  set.forEach(e=>{
    let id=g+"-"+a+"-"+e;
-   html+=`<div>${checkbox(id)} ${e}</div>`;
+   html+=`<div class='item'>${checkbox(id)} ${e}</div>`;
  });
  html+="</div>";
  document.getElementById("content").innerHTML=html;
@@ -92,7 +92,7 @@ function showAthleteAparato(i,ap){
  let html="<div class='list'>";
  lista.forEach(e=>{
    let id=dataApp[i].nombre+"-"+ap+"-"+e.nombre;
-   html+=`<div>${checkbox(id)} ${e.nombre}</div>`;
+   html+=`<div class='item'>${checkbox(id)} ${e.nombre}</div>`;
  });
  html+="</div>";
  document.getElementById("content").innerHTML=html;
