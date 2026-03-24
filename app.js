@@ -1,8 +1,25 @@
 let dataApp=[];
+let progress=JSON.parse(localStorage.getItem("progress")||"{}");
 
 fetch('data.json')
 .then(res=>res.json())
 .then(data=>{dataApp=data;});
+
+function save(){
+ localStorage.setItem("progress",JSON.stringify(progress));
+}
+
+function key(id){return id;}
+
+function checkbox(id){
+ let checked=progress[id]||false;
+ return `<input type='checkbox' ${checked?"checked":""} onchange="toggle('${id}',this.checked)">`;
+}
+
+function toggle(id,val){
+ progress[id]=val;
+ save();
+}
 
 function showGroups(){
  let groups=[...new Set(dataApp.map(a=>a.grupo))];
@@ -30,7 +47,8 @@ function showGroupAparato(g,a){
  });
  let html="<div class='list'>";
  set.forEach(e=>{
-   html+=`<div><input type='checkbox'> ${e}</div>`;
+   let id=g+"-"+a+"-"+e;
+   html+=`<div>${checkbox(id)} ${e}</div>`;
  });
  html+="</div>";
  document.getElementById("content").innerHTML=html;
@@ -58,7 +76,8 @@ function showAthleteAparato(i,ap){
  let lista=dataApp[i].aparatos[ap];
  let html="<div class='list'>";
  lista.forEach(e=>{
-   html+=`<div><input type='checkbox'> ${e.nombre}</div>`;
+   let id=dataApp[i].nombre+"-"+ap+"-"+e.nombre;
+   html+=`<div>${checkbox(id)} ${e.nombre}</div>`;
  });
  html+="</div>";
  document.getElementById("content").innerHTML=html;

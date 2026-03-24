@@ -1,1 +1,2330 @@
-[]
+[
+  {
+    "nombre": "Isaac",
+    "nivel": "3",
+    "grupo": "GAV 3",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "parada de manos"
+        },
+        {
+          "nombre": "vuelta de carro"
+        },
+        {
+          "nombre": "redondilla"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "circulo"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "hercules"
+        },
+        {
+          "nombre": "vuelos"
+        },
+        {
+          "nombre": "plancha"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "vertical"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "plancha en bola"
+        },
+        {
+          "nombre": "vuelos"
+        },
+        {
+          "nombre": "l sit"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "subida de est"
+        },
+        {
+          "nombre": "vuelta atras"
+        },
+        {
+          "nombre": "balanceos"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Leo Lazaro",
+    "nivel": "3",
+    "grupo": "GAV 3",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "parada de manos"
+        },
+        {
+          "nombre": "vuelta de carro"
+        },
+        {
+          "nombre": "redondilla"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "circulo"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "hercules"
+        },
+        {
+          "nombre": "vuelos"
+        },
+        {
+          "nombre": "plancha"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "vertical"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "plancha en bola"
+        },
+        {
+          "nombre": "vuelos"
+        },
+        {
+          "nombre": "l sit"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "subida de est"
+        },
+        {
+          "nombre": "vuelta atras"
+        },
+        {
+          "nombre": "balanceos"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Santi power",
+    "nivel": "4",
+    "grupo": "GAV 4",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "balanceos"
+        },
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "rusa"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Cuevas",
+    "nivel": "4",
+    "grupo": "GAV 4",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "resorte a 2"
+        },
+        {
+          "nombre": "doble flic"
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "balanceos"
+        },
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Nico flores",
+    "nivel": "4",
+    "grupo": "GAV 4",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "giro en pm"
+        },
+        {
+          "nombre": "doble flic"
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "David",
+    "nivel": "4",
+    "grupo": "GAV 4",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "giro en pm"
+        },
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "hercules"
+        },
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "vuelo a manos"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "fly"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Emi",
+    "nivel": "4",
+    "grupo": "GAV 4",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Leito",
+    "nivel": "4",
+    "grupo": "GAV 4",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "resorte"
+        },
+        {
+          "nombre": "doble flic"
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Charly",
+    "nivel": "4",
+    "grupo": "GAV 4",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "giro en pm"
+        },
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "resorte 2"
+        },
+        {
+          "nombre": "doble flic"
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "hercules"
+        },
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "balanceos"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "vuelo a manos"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Bruno Baez",
+    "nivel": "4",
+    "grupo": "GAV 5",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecución"
+        },
+        {
+          "nombre": "pm con giro"
+        },
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "doble flic"
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "rusa"
+        },
+        {
+          "nombre": "vuelo a manos"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Mauro",
+    "nivel": "4",
+    "grupo": "GAV 5",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecución"
+        },
+        {
+          "nombre": "pm con giro"
+        },
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "doble flic"
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "rusa"
+        },
+        {
+          "nombre": "vuelo a manos"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Chavez",
+    "nivel": "4",
+    "grupo": "GAV 5",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "rusa"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Chema",
+    "nivel": "4",
+    "grupo": "GAV 5",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "pm con giro"
+        },
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "rusa"
+        },
+        {
+          "nombre": "vuelo a manos"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Alfred",
+    "nivel": "4",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "pm con giro"
+        },
+        {
+          "nombre": "kato 3\""
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "thomas flair"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "plancha"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parada de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "mortal"
+        },
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "pechada"
+        },
+        {
+          "nombre": "rusa"
+        },
+        {
+          "nombre": "vuelo a manos"
+        },
+        {
+          "nombre": "alemana"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo 3\""
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "vuelta libre"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Brunito",
+    "nivel": "5",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "doble flic mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle thomas"
+        },
+        {
+          "nombre": "rusas"
+        },
+        {
+          "nombre": "circulos en grupa"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "inlocada"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "baby molino"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "resorte"
+        },
+        {
+          "nombre": "yamashita"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "cambio sencillo"
+        },
+        {
+          "nombre": "salida"
+        },
+        {
+          "nombre": "salida de mortal"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "salvada"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Nico Capi",
+    "nivel": "5",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "doble flic mortal"
+        },
+        {
+          "nombre": "mortal extendido"
+        },
+        {
+          "nombre": "resorte mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle thomas"
+        },
+        {
+          "nombre": "rusas"
+        },
+        {
+          "nombre": "circulos en grupa"
+        },
+        {
+          "nombre": "magyar"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "inlocada"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parado de manos"
+        },
+        {
+          "nombre": "baby molino"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "resorte"
+        },
+        {
+          "nombre": "yamashita"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "cambio sencillo"
+        },
+        {
+          "nombre": "salida"
+        },
+        {
+          "nombre": "salida de mortal"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "cambios sencillos"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Brittan",
+    "nivel": "5",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "flic mortal"
+        },
+        {
+          "nombre": "mortal carpado"
+        },
+        {
+          "nombre": "kato"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle thomas"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "inlocada"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parado de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "salida"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Pato",
+    "nivel": "5",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "resorte 1 a 2"
+        },
+        {
+          "nombre": "doble flic mortal"
+        },
+        {
+          "nombre": "mortal extendido"
+        },
+        {
+          "nombre": "resorte mortal"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "splindle thomas"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "inlocada"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parado de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "salida"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Santi Lee",
+    "nivel": "6",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "flic mortal ext"
+        },
+        {
+          "nombre": "reso mort carpa"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "inlocada"
+        },
+        {
+          "nombre": "inglesa"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "cambio sencillo"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "salida de mortal"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "salida de gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Max",
+    "nivel": "6",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "flic mortal giro"
+        },
+        {
+          "nombre": "reso mort carpa"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "inlocada"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parado de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "resorte"
+        },
+        {
+          "nombre": "yamashita"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "cambio sencillo"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "salida de mortal"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "cambio gig a gig"
+        },
+        {
+          "nombre": "salida de gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Mario",
+    "nivel": "6",
+    "grupo": "GAV 6",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "flic mortal ext"
+        },
+        {
+          "nombre": "reso mort carpa"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "rusas"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "ejecucion"
+        },
+        {
+          "nombre": "inlocada"
+        },
+        {
+          "nombre": "inglesa"
+        },
+        {
+          "nombre": "parado de manos"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "resorte"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "moy"
+        },
+        {
+          "nombre": "cambio sencillo"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "salida de mortal"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "cambio gig a gig"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Yerik",
+    "nivel": "7",
+    "grupo": "GAV 9",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "doble giro atras"
+        },
+        {
+          "nombre": "doble atras en c"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "bajada de arzon"
+        },
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "salida kolyvanov"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "kip"
+        },
+        {
+          "nombre": "azteca"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "tsukahara ext"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "cambio"
+        },
+        {
+          "nombre": "felgue"
+        },
+        {
+          "nombre": "corte braquial"
+        },
+        {
+          "nombre": "balleston"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "cambio directo"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "soltada"
+        },
+        {
+          "nombre": "salida de gigante"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Fer",
+    "nivel": "7",
+    "grupo": "GAV 9",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "doble giro atras"
+        },
+        {
+          "nombre": "doble atras en c"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "checa"
+        },
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "salida kolyvanov"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "kip"
+        },
+        {
+          "nombre": "azteca"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "tsukahara en v"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "cambio"
+        },
+        {
+          "nombre": "felgue"
+        },
+        {
+          "nombre": "corte braquial"
+        },
+        {
+          "nombre": "balleston"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "cambio directo"
+        },
+        {
+          "nombre": "soltada"
+        },
+        {
+          "nombre": "endo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Vela",
+    "nivel": "8",
+    "grupo": "GAV 9",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "doble giro atras"
+        },
+        {
+          "nombre": "doble atras en c"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "sivado"
+        },
+        {
+          "nombre": "thomas"
+        },
+        {
+          "nombre": "rusa"
+        },
+        {
+          "nombre": "circulo en arzones"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "kip"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "cristo"
+        },
+        {
+          "nombre": "salida de multiple"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "tsukahara en v"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "felgue"
+        },
+        {
+          "nombre": "tipelt"
+        },
+        {
+          "nombre": "salida de doble"
+        },
+        {
+          "nombre": "felgue a manos"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "voronin"
+        },
+        {
+          "nombre": "salvada"
+        },
+        {
+          "nombre": "salida doble ext"
+        },
+        {
+          "nombre": "endo"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Mikel",
+    "nivel": "9",
+    "grupo": "GAV 9",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "giro rebote ext"
+        },
+        {
+          "nombre": "doble giro atras"
+        },
+        {
+          "nombre": "doble giro adel"
+        },
+        {
+          "nombre": "doble en c adel"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "salida kolyvanov"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "cristo"
+        },
+        {
+          "nombre": "salida doble ext"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "kasamatsu ext"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "felgue a manos"
+        },
+        {
+          "nombre": "diamidov"
+        },
+        {
+          "nombre": "salida extendido"
+        },
+        {
+          "nombre": "gigante"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "torera"
+        },
+        {
+          "nombre": "endo"
+        },
+        {
+          "nombre": "cambio directo"
+        },
+        {
+          "nombre": "adler medio"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Champi",
+    "nivel": "9",
+    "grupo": "GAV 9",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "doble en c atras"
+        },
+        {
+          "nombre": "2 1/2 giro atras"
+        },
+        {
+          "nombre": "giro adel rebote"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "splindle"
+        },
+        {
+          "nombre": "checa"
+        },
+        {
+          "nombre": "salida kolyvanov"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "kip"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "tsukahara en v"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "salida"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "peters"
+        },
+        {
+          "nombre": "diamidov"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "jinger"
+        },
+        {
+          "nombre": "alemana cambio"
+        },
+        {
+          "nombre": "salida multiple ext"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Isaac",
+    "nivel": "9",
+    "grupo": "GAV 9",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "doble giro atras"
+        },
+        {
+          "nombre": "doble atras en c"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "tijera circulo"
+        },
+        {
+          "nombre": "checa"
+        },
+        {
+          "nombre": "magyar"
+        },
+        {
+          "nombre": "splindle"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "inglesa pajaro"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "cristo"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "tsukahara ext"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "felgue a manos"
+        },
+        {
+          "nombre": "salida de doble"
+        },
+        {
+          "nombre": "diamidov"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "jinger"
+        },
+        {
+          "nombre": "cambio directo"
+        },
+        {
+          "nombre": "salida doble ext"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Alonso",
+    "nivel": "JR FIG",
+    "grupo": "GAV FIG",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "multiple"
+        },
+        {
+          "nombre": "giro adel rebote"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "tijera circulo"
+        },
+        {
+          "nombre": "bajada"
+        },
+        {
+          "nombre": "1/2 splindle"
+        },
+        {
+          "nombre": "salida"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "kip cristo"
+        },
+        {
+          "nombre": "molino"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "salida doble ext"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "akopian"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "cambio gigante"
+        },
+        {
+          "nombre": "felgue a manos"
+        },
+        {
+          "nombre": "salida doble en v"
+        },
+        {
+          "nombre": "peters"
+        },
+        {
+          "nombre": "bhavsar"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "gigante saltado"
+        },
+        {
+          "nombre": "adler medio"
+        },
+        {
+          "nombre": "jager"
+        },
+        {
+          "nombre": "salida multiple ext"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Richie",
+    "nivel": "JR FIG",
+    "grupo": "GAV FIG",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "giro adel rebote"
+        },
+        {
+          "nombre": "1 1/2 atras rebote"
+        },
+        {
+          "nombre": "doble doble"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "salida kolyvanov"
+        },
+        {
+          "nombre": "tonge fei"
+        },
+        {
+          "nombre": "driggs"
+        },
+        {
+          "nombre": "floop"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "yamawaki molino"
+        },
+        {
+          "nombre": "cristo"
+        },
+        {
+          "nombre": "gigante"
+        },
+        {
+          "nombre": "doble doble"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "tsukahara 1 1/2"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "stutkhere"
+        },
+        {
+          "nombre": "diamidov"
+        },
+        {
+          "nombre": "felgue a manos"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "adler 1/2"
+        },
+        {
+          "nombre": "tkachev ext"
+        },
+        {
+          "nombre": "salida multipli ext"
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Diego",
+    "nivel": "FIG",
+    "grupo": "GAV FIG",
+    "aparatos": {
+      "piso": [
+        {
+          "nombre": "rebotes"
+        },
+        {
+          "nombre": "acrobacia basica"
+        }
+      ],
+      "arzon": [
+        {
+          "nombre": "floop d y e"
+        },
+        {
+          "nombre": "wugonian"
+        },
+        {
+          "nombre": "tong fei"
+        }
+      ],
+      "anillos": [
+        {
+          "nombre": "molinary"
+        },
+        {
+          "nombre": "tsukahara 2"
+        }
+      ],
+      "salto": [
+        {
+          "nombre": "bases de carrera"
+        },
+        {
+          "nombre": "rebote basico"
+        },
+        {
+          "nombre": "resorte"
+        },
+        {
+          "nombre": "redondilla"
+        }
+      ],
+      "paralelas": [
+        {
+          "nombre": "peters"
+        },
+        {
+          "nombre": "felgue medio"
+        }
+      ],
+      "fija": [
+        {
+          "nombre": "cassina"
+        },
+        {
+          "nombre": "adler 1/2"
+        },
+        {
+          "nombre": "kolman"
+        },
+        {
+          "nombre": "salida a suave"
+        },
+        {
+          "nombre": "winkler"
+        }
+      ]
+    }
+  }
+]
