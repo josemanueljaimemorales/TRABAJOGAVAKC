@@ -1,63 +1,149 @@
+:root{
+  --bg: #0F172A;
+  --card: #1E293B;
+  --accent: #2563EB;
+  --accent-soft: #3B82F6;
+  --text: #FFFFFF;
+  --text-soft: #94A3B8;
+}
+
+/* RESET */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* BODY */
 body{
-font-family:'Segoe UI',sans-serif;
-background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
-color:white;
-text-align:center;
-margin:0;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: linear-gradient(180deg, #020617, #0F172A);
+  color: var(--text);
+  text-align: center;
+}
+
+/* HEADER */
+.header{
+  padding: 20px 10px 10px;
 }
 
 .logo{
-width:120px;
-margin:10px auto;
-display:block;
+  width: 110px;
+  margin: 0 auto 10px;
+  display: block;
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.6));
 }
 
 h1{
-font-size:28px;
-margin-bottom:10px;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 1px;
 }
 
-button{
-padding:26px;
-margin:12px auto;
-font-size:22px;
-border-radius:22px;
-width:95%;
-border:none;
-color:white;
-font-weight:bold;
-display:block;
-box-shadow:0 6px 16px rgba(0,0,0,0.6);
+/* NAV BACK */
+#nav{
+  padding: 10px;
 }
-
-.piso{background:#ff6b6b;}
-.arzon{background:#feca57;}
-.anillos{background:#48dbfb;}
-.salto{background:#1dd1a1;}
-.paralelas{background:#5f27cd;}
-.fija{background:#ff9ff3;}
 
 .back{
-background:#576574;
+  background: var(--card);
+  color: var(--text);
+  padding: 14px;
+  border-radius: 14px;
+  width: 90%;
+  margin: auto;
+  font-size: 16px;
+  font-weight: 600;
+  border: 1px solid rgba(255,255,255,0.05);
+  transition: 0.2s;
 }
 
+.back:active{
+  transform: scale(0.97);
+}
+
+/* CONTENT */
+#content{
+  padding-bottom: 30px;
+}
+
+/* BOTONES GENERALES */
+button{
+  background: var(--card);
+  color: var(--text);
+  padding: 18px;
+  margin: 10px auto;
+  font-size: 18px;
+  border-radius: 16px;
+  width: 90%;
+  border: 1px solid rgba(255,255,255,0.05);
+  font-weight: 600;
+  display: block;
+  transition: all 0.2s ease;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+}
+
+/* EFECTO PRO */
+button:hover{
+  background: var(--accent);
+  transform: translateY(-2px);
+}
+
+button:active{
+  transform: scale(0.97);
+}
+
+/* COLORES POR APARATO (más elegantes) */
+.piso{ background: #1E293B; border-left: 6px solid #ef4444; }
+.arzon{ background: #1E293B; border-left: 6px solid #f59e0b; }
+.anillos{ background: #1E293B; border-left: 6px solid #06b6d4; }
+.salto{ background: #1E293B; border-left: 6px solid #22c55e; }
+.paralelas{ background: #1E293B; border-left: 6px solid #8b5cf6; }
+.fija{ background: #1E293B; border-left: 6px solid #ec4899; }
+
+/* LISTAS */
 .list{
-text-align:left;
-width:95%;
-margin:auto;
-font-size:26px;
-background:rgba(0,0,0,0.4);
-padding:25px;
-border-radius:22px;
+  text-align: left;
+  width: 90%;
+  margin: 10px auto;
+  font-size: 18px;
+  background: var(--card);
+  padding: 18px;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.4);
 }
 
+/* ITEMS */
 .item{
-display:flex;
-align-items:center;
-padding:14px 0;
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
 }
 
+.item:last-child{
+  border-bottom: none;
+}
+
+/* CHECKBOX PRO */
 input[type="checkbox"]{
-transform:scale(2.2);
-margin-right:18px;
+  transform: scale(1.6);
+  margin-right: 12px;
+  accent-color: var(--accent);
+}
+
+/* RESPONSIVE */
+@media (max-width: 600px){
+  h1{
+    font-size: 20px;
+  }
+
+  button{
+    font-size: 16px;
+    padding: 16px;
+  }
+
+  .list{
+    font-size: 16px;
+  }
 }
