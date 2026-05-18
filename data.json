@@ -6,7 +6,10 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Resorte a 2\nFlic flac"
+          "nombre": "Resorte a 2"
+        },
+        {
+          "nombre": "Flic flac"
         }
       ],
       "arzon": [
@@ -16,7 +19,10 @@
       ],
       "anillos": [
         {
-          "nombre": "Hercules\nBalanceos"
+          "nombre": "Hercules"
+        },
+        {
+          "nombre": "Balanceos"
         }
       ],
       "salto": [
@@ -26,7 +32,10 @@
       ],
       "paralelas": [
         {
-          "nombre": "PM Controlado\nSubida de pecho"
+          "nombre": "PM Controlado"
+        },
+        {
+          "nombre": "Subida de pecho"
         }
       ],
       "fija": [
@@ -43,7 +52,10 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Resorte a 2\nFlic flac"
+          "nombre": "Resorte a 2"
+        },
+        {
+          "nombre": "Flic flac"
         }
       ],
       "arzon": [
@@ -53,7 +65,10 @@
       ],
       "anillos": [
         {
-          "nombre": "Hercules\nBalanceos"
+          "nombre": "Hercules"
+        },
+        {
+          "nombre": "Balanceos"
         }
       ],
       "salto": [
@@ -63,7 +78,10 @@
       ],
       "paralelas": [
         {
-          "nombre": "PM Controlado\nSubida de pecho"
+          "nombre": "PM Controlado"
+        },
+        {
+          "nombre": "Subida de pecho"
         }
       ],
       "fija": [
@@ -80,17 +98,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -100,12 +139,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -117,17 +171,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -137,12 +212,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -154,17 +244,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -174,12 +285,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Pechada\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Pechada"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -191,17 +317,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -211,12 +358,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Pechada\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Pechada"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -228,17 +390,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -248,12 +431,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -265,17 +463,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -285,12 +504,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -302,17 +536,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -322,12 +577,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -339,17 +609,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -359,12 +650,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -376,17 +682,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -396,12 +723,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -413,17 +755,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -433,12 +796,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -450,17 +828,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -470,12 +869,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -487,17 +901,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -507,12 +942,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -524,17 +974,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rodada Kato 3\"\nResorte 1 a 2\nFlic Flic mortal"
+          "nombre": "Rodada Kato 3\""
+        },
+        {
+          "nombre": "Resorte 1 a 2"
+        },
+        {
+          "nombre": "Flic Flic mortal"
         }
       ],
       "arzon": [
         {
-          "nombre": "Thomas Splindle\nCheka\nStockly\nRusas"
+          "nombre": "Thomas Splindle"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockly"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Inglesa\nParada de manos\nInlocada"
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Parada de manos"
+        },
+        {
+          "nombre": "Inlocada"
         }
       ],
       "salto": [
@@ -544,12 +1015,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Rusa\nAlemana\nMoy al apoyo\nEndo 3\""
+          "nombre": "Rusa"
+        },
+        {
+          "nombre": "Alemana"
+        },
+        {
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Endo 3\""
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
         }
       ]
     }
@@ -561,17 +1047,32 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Giro atras extendido\nResorte mortal en V\nPower flick"
+          "nombre": "Giro atras extendido"
+        },
+        {
+          "nombre": "Resorte mortal en V"
+        },
+        {
+          "nombre": "Power flick"
         }
       ],
       "arzon": [
         {
-          "nombre": "Magyar\nRusas"
+          "nombre": "Magyar"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Baby Molino\nDislocada\nSalida de doble en C"
+          "nombre": "Baby Molino"
+        },
+        {
+          "nombre": "Dislocada"
+        },
+        {
+          "nombre": "Salida de doble en C"
         }
       ],
       "salto": [
@@ -586,7 +1087,19 @@
       ],
       "fija": [
         {
-          "nombre": "Molino\nGigante\nSalvada\nCambios sencillos\nSalida desde gigante"
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Cambios sencillos"
+        },
+        {
+          "nombre": "Salida desde gigante"
         }
       ]
     }
@@ -598,17 +1111,41 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Giro atras extendido\nExtendido adelante\nTempo"
+          "nombre": "Giro atras extendido"
+        },
+        {
+          "nombre": "Extendido adelante"
+        },
+        {
+          "nombre": "Tempo"
         }
       ],
       "arzon": [
         {
-          "nombre": "Tijera-Circulo\nBajada de arzon a punta\nCirculos en arzon"
+          "nombre": "Tijera-Circulo"
+        },
+        {
+          "nombre": "Bajada de arzon a punta"
+        },
+        {
+          "nombre": "Circulos en arzon"
         }
       ],
       "anillos": [
         {
-          "nombre": "PM sin cables\nInglesa\nInlocada\nDislocada\nSalida de doble"
+          "nombre": "PM sin cables"
+        },
+        {
+          "nombre": "Inglesa"
+        },
+        {
+          "nombre": "Inlocada"
+        },
+        {
+          "nombre": "Dislocada"
+        },
+        {
+          "nombre": "Salida de doble"
         }
       ],
       "salto": [
@@ -618,12 +1155,30 @@
       ],
       "paralelas": [
         {
-          "nombre": "Moy al apoyo\nCambio\nL sit a manos\nSalida de mortal"
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Cambio"
+        },
+        {
+          "nombre": "L sit a manos"
+        },
+        {
+          "nombre": "Salida de mortal"
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante\nSalida desde gigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Salida desde gigante"
         }
       ]
     }
@@ -635,17 +1190,32 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Giro atras extendido\nResorte mortal en V\nPower flick"
+          "nombre": "Giro atras extendido"
+        },
+        {
+          "nombre": "Resorte mortal en V"
+        },
+        {
+          "nombre": "Power flick"
         }
       ],
       "arzon": [
         {
-          "nombre": "Magyar\nRusas"
+          "nombre": "Magyar"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Baby Molino\nDislocada\nSalida de doble en C"
+          "nombre": "Baby Molino"
+        },
+        {
+          "nombre": "Dislocada"
+        },
+        {
+          "nombre": "Salida de doble en C"
         }
       ],
       "salto": [
@@ -655,12 +1225,30 @@
       ],
       "paralelas": [
         {
-          "nombre": "Moy al apoyo\nCambio\nL sit a manos\nSalida de mortal ext"
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Cambio"
+        },
+        {
+          "nombre": "L sit a manos"
+        },
+        {
+          "nombre": "Salida de mortal ext"
         }
       ],
       "fija": [
         {
-          "nombre": "Salvada\nMolino\nGigante\nSalida desde gigante"
+          "nombre": "Salvada"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Salida desde gigante"
         }
       ]
     }
@@ -672,17 +1260,35 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Giro atras extendido\nExtendido adelante\nTempo"
+          "nombre": "Giro atras extendido"
+        },
+        {
+          "nombre": "Extendido adelante"
+        },
+        {
+          "nombre": "Tempo"
         }
       ],
       "arzon": [
         {
-          "nombre": "Sivado\nRecorrido con thomas\nRusas"
+          "nombre": "Sivado"
+        },
+        {
+          "nombre": "Recorrido con thomas"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Molino\nKip\nSalida de doble"
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Kip"
+        },
+        {
+          "nombre": "Salida de doble"
         }
       ],
       "salto": [
@@ -692,12 +1298,30 @@
       ],
       "paralelas": [
         {
-          "nombre": "Moy al apoyo\nCambio\nFelgue\nSalida de mortal ext"
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Cambio"
+        },
+        {
+          "nombre": "Felgue"
+        },
+        {
+          "nombre": "Salida de mortal ext"
         }
       ],
       "fija": [
         {
-          "nombre": "Gigante\nMolino\nCambios\nSalida desde gigante"
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Cambios"
+        },
+        {
+          "nombre": "Salida desde gigante"
         }
       ]
     }
@@ -709,17 +1333,41 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Doble giro atrás\nExtendido adelante\nGiro adelante\nDoble en C atrás"
+          "nombre": "Doble giro atrás"
+        },
+        {
+          "nombre": "Extendido adelante"
+        },
+        {
+          "nombre": "Giro adelante"
+        },
+        {
+          "nombre": "Doble en C atrás"
         }
       ],
       "arzon": [
         {
-          "nombre": "Magyar\nSivado\nRecorrido con thomas\nRusas"
+          "nombre": "Magyar"
+        },
+        {
+          "nombre": "Sivado"
+        },
+        {
+          "nombre": "Recorrido con thomas"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Molino\nKip\nSalida de doble"
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Kip"
+        },
+        {
+          "nombre": "Salida de doble"
         }
       ],
       "salto": [
@@ -729,12 +1377,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Felgue\nGigante\nEndo\nSalida de mortal ext"
+          "nombre": "Felgue"
+        },
+        {
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Endo"
+        },
+        {
+          "nombre": "Salida de mortal ext"
         }
       ],
       "fija": [
         {
-          "nombre": "Soltada\nEndo\nSalida de doble en C"
+          "nombre": "Soltada"
+        },
+        {
+          "nombre": "Endo"
+        },
+        {
+          "nombre": "Salida de doble en C"
         }
       ]
     }
@@ -746,17 +1409,35 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Giro atras extendido\nExtendido adelante\nTempo"
+          "nombre": "Giro atras extendido"
+        },
+        {
+          "nombre": "Extendido adelante"
+        },
+        {
+          "nombre": "Tempo"
         }
       ],
       "arzon": [
         {
-          "nombre": "Sivado\nRecorrido con thomas\nRusas"
+          "nombre": "Sivado"
+        },
+        {
+          "nombre": "Recorrido con thomas"
+        },
+        {
+          "nombre": "Rusas"
         }
       ],
       "anillos": [
         {
-          "nombre": "Molino\nKip\nSalida de doble"
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Kip"
+        },
+        {
+          "nombre": "Salida de doble"
         }
       ],
       "salto": [
@@ -766,12 +1447,30 @@
       ],
       "paralelas": [
         {
-          "nombre": "Moy al apoyo\nCambio\nFelgue\nSalida de mortal ext"
+          "nombre": "Moy al apoyo"
+        },
+        {
+          "nombre": "Cambio"
+        },
+        {
+          "nombre": "Felgue"
+        },
+        {
+          "nombre": "Salida de mortal ext"
         }
       ],
       "fija": [
         {
-          "nombre": "Soltada\nEndo\nCambios\nSalida de doble en C"
+          "nombre": "Soltada"
+        },
+        {
+          "nombre": "Endo"
+        },
+        {
+          "nombre": "Cambios"
+        },
+        {
+          "nombre": "Salida de doble en C"
         }
       ]
     }
@@ -783,17 +1482,41 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Doble giro atrás\nExtendido adelante\nGiro adelante\nDoble en C atrás"
+          "nombre": "Doble giro atrás"
+        },
+        {
+          "nombre": "Extendido adelante"
+        },
+        {
+          "nombre": "Giro adelante"
+        },
+        {
+          "nombre": "Doble en C atrás"
         }
       ],
       "arzon": [
         {
-          "nombre": "Magyar con arzones\nCheka\nStockli"
+          "nombre": "Magyar con arzones"
+        },
+        {
+          "nombre": "Cheka"
+        },
+        {
+          "nombre": "Stockli"
         }
       ],
       "anillos": [
         {
-          "nombre": "Gigante\nMolino\nKip\nSalida de multiple agrupado"
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Molino"
+        },
+        {
+          "nombre": "Kip"
+        },
+        {
+          "nombre": "Salida de multiple agrupado"
         }
       ],
       "salto": [
@@ -803,12 +1526,24 @@
       ],
       "paralelas": [
         {
-          "nombre": "Cambio\nFelgue\nGigante"
+          "nombre": "Cambio"
+        },
+        {
+          "nombre": "Felgue"
+        },
+        {
+          "nombre": "Gigante"
         }
       ],
       "fija": [
         {
-          "nombre": "Soltada\nEndo\nSalida de doble en C"
+          "nombre": "Soltada"
+        },
+        {
+          "nombre": "Endo"
+        },
+        {
+          "nombre": "Salida de doble en C"
         }
       ]
     }
@@ -820,17 +1555,32 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Doble giro atras\nDoble atras en C"
+          "nombre": "Doble giro atras"
+        },
+        {
+          "nombre": "Doble atras en C"
         }
       ],
       "arzon": [
         {
-          "nombre": "Tijera-Circulo\nBajada de arzon a punta\nCirculos en arzon"
+          "nombre": "Tijera-Circulo"
+        },
+        {
+          "nombre": "Bajada de arzon a punta"
+        },
+        {
+          "nombre": "Circulos en arzon"
         }
       ],
       "anillos": [
         {
-          "nombre": "Kip\nYamawaki\nSalida de Multiple"
+          "nombre": "Kip"
+        },
+        {
+          "nombre": "Yamawaki"
+        },
+        {
+          "nombre": "Salida de Multiple"
         }
       ],
       "salto": [
@@ -840,12 +1590,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Gigante\nTipelt\nSalida de doble\nFelgue a manos"
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Tipelt"
+        },
+        {
+          "nombre": "Salida de doble"
+        },
+        {
+          "nombre": "Felgue a manos"
         }
       ],
       "fija": [
         {
-          "nombre": "Jinger\nEndo\nSalida doble ext"
+          "nombre": "Jinger"
+        },
+        {
+          "nombre": "Endo"
+        },
+        {
+          "nombre": "Salida doble ext"
         }
       ]
     }
@@ -857,17 +1622,41 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Doble en C atras\n2 1/2 giro atras\nGiro adel rebote"
+          "nombre": "Doble en C atras"
+        },
+        {
+          "nombre": "2 1"
+        },
+        {
+          "nombre": "2 giro atras"
+        },
+        {
+          "nombre": "Giro adel rebote"
         }
       ],
       "arzon": [
         {
-          "nombre": "Magyar\nSplindle\nCheca\nSalida Kolyvanov"
+          "nombre": "Magyar"
+        },
+        {
+          "nombre": "Splindle"
+        },
+        {
+          "nombre": "Checa"
+        },
+        {
+          "nombre": "Salida Kolyvanov"
         }
       ],
       "anillos": [
         {
-          "nombre": "Kip\nGigante\nMolino"
+          "nombre": "Kip"
+        },
+        {
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Molino"
         }
       ],
       "salto": [
@@ -877,12 +1666,30 @@
       ],
       "paralelas": [
         {
-          "nombre": "Gigante\nPeters\nDiamidov\nSalida de doble"
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Peters"
+        },
+        {
+          "nombre": "Diamidov"
+        },
+        {
+          "nombre": "Salida de doble"
         }
       ],
       "fija": [
         {
-          "nombre": "Tkachev\nAdler 1/2\nSalida Multiple ext"
+          "nombre": "Tkachev"
+        },
+        {
+          "nombre": "Adler 1"
+        },
+        {
+          "nombre": "2"
+        },
+        {
+          "nombre": "Salida Multiple ext"
         }
       ]
     }
@@ -894,17 +1701,26 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Doble giro atras\nDoble atras en C"
+          "nombre": "Doble giro atras"
+        },
+        {
+          "nombre": "Doble atras en C"
         }
       ],
       "arzon": [
         {
-          "nombre": "Magyar\nStockli"
+          "nombre": "Magyar"
+        },
+        {
+          "nombre": "Stockli"
         }
       ],
       "anillos": [
         {
-          "nombre": "Kip cristo\nGigante"
+          "nombre": "Kip cristo"
+        },
+        {
+          "nombre": "Gigante"
         }
       ],
       "salto": [
@@ -914,12 +1730,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Gigante\nDiamidov\nFelgue a manos\nSalida de doble"
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Diamidov"
+        },
+        {
+          "nombre": "Felgue a manos"
+        },
+        {
+          "nombre": "Salida de doble"
         }
       ],
       "fija": [
         {
-          "nombre": "Jinger\nKovacs\nSalida doble ext"
+          "nombre": "Jinger"
+        },
+        {
+          "nombre": "Kovacs"
+        },
+        {
+          "nombre": "Salida doble ext"
         }
       ]
     }
@@ -931,17 +1762,35 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Doble giro atras\nDoble atras en C"
+          "nombre": "Doble giro atras"
+        },
+        {
+          "nombre": "Doble atras en C"
         }
       ],
       "arzon": [
         {
-          "nombre": "Checa\nMagyar\nSalida Kolyvanov"
+          "nombre": "Checa"
+        },
+        {
+          "nombre": "Magyar"
+        },
+        {
+          "nombre": "Salida Kolyvanov"
         }
       ],
       "anillos": [
         {
-          "nombre": "Kip\nAzteca\nGigante\nMolino"
+          "nombre": "Kip"
+        },
+        {
+          "nombre": "Azteca"
+        },
+        {
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Molino"
         }
       ],
       "salto": [
@@ -951,12 +1800,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Cambio\nFelgue\nCorte braquial\nBalleston"
+          "nombre": "Cambio"
+        },
+        {
+          "nombre": "Felgue"
+        },
+        {
+          "nombre": "Corte braquial"
+        },
+        {
+          "nombre": "Balleston"
         }
       ],
       "fija": [
         {
-          "nombre": "Cambio directo\nSoltada\nEndo"
+          "nombre": "Cambio directo"
+        },
+        {
+          "nombre": "Soltada"
+        },
+        {
+          "nombre": "Endo"
         }
       ]
     }
@@ -968,17 +1832,38 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Giro rebote ext\nDoble giro atras\nDoble giro adel\nDoble en c adel"
+          "nombre": "Giro rebote ext"
+        },
+        {
+          "nombre": "Doble giro atras"
+        },
+        {
+          "nombre": "Doble giro adel"
+        },
+        {
+          "nombre": "Doble en c adel"
         }
       ],
       "arzon": [
         {
-          "nombre": "Magyar\nMagyar en punta\nSalida Kolyvanov"
+          "nombre": "Magyar"
+        },
+        {
+          "nombre": "Magyar en punta"
+        },
+        {
+          "nombre": "Salida Kolyvanov"
         }
       ],
       "anillos": [
         {
-          "nombre": "Gigante\nKip cristo\nSalida doble ext"
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Kip cristo"
+        },
+        {
+          "nombre": "Salida doble ext"
         }
       ],
       "salto": [
@@ -988,12 +1873,30 @@
       ],
       "paralelas": [
         {
-          "nombre": "Felgue a manos\nGigante\nDiamidov\nSalida giro extendido"
+          "nombre": "Felgue a manos"
+        },
+        {
+          "nombre": "Gigante"
+        },
+        {
+          "nombre": "Diamidov"
+        },
+        {
+          "nombre": "Salida giro extendido"
         }
       ],
       "fija": [
         {
-          "nombre": "Tkachev\nEndo\nCambio directo\nAdler medio"
+          "nombre": "Tkachev"
+        },
+        {
+          "nombre": "Endo"
+        },
+        {
+          "nombre": "Cambio directo"
+        },
+        {
+          "nombre": "Adler medio"
         }
       ]
     }
@@ -1005,17 +1908,44 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Multiple en V\nTriple giro\nGiro adel rebote a doble"
+          "nombre": "Multiple en V"
+        },
+        {
+          "nombre": "Triple giro"
+        },
+        {
+          "nombre": "Giro adel rebote a doble"
         }
       ],
       "arzon": [
         {
-          "nombre": "Tijera Circulo\nBajada\n1/2 Splindle\nSalida"
+          "nombre": "Tijera Circulo"
+        },
+        {
+          "nombre": "Bajada"
+        },
+        {
+          "nombre": "1"
+        },
+        {
+          "nombre": "2 Splindle"
+        },
+        {
+          "nombre": "Salida"
         }
       ],
       "anillos": [
         {
-          "nombre": "Gigante sost\nMolino sost\nInglesa a pajaro\nSalida doble ext"
+          "nombre": "Gigante sost"
+        },
+        {
+          "nombre": "Molino sost"
+        },
+        {
+          "nombre": "Inglesa a pajaro"
+        },
+        {
+          "nombre": "Salida doble ext"
         }
       ],
       "salto": [
@@ -1025,12 +1955,27 @@
       ],
       "paralelas": [
         {
-          "nombre": "Felgue a manos\nPeters\nBhavsar\nSalida Doble en V"
+          "nombre": "Felgue a manos"
+        },
+        {
+          "nombre": "Peters"
+        },
+        {
+          "nombre": "Bhavsar"
+        },
+        {
+          "nombre": "Salida Doble en V"
         }
       ],
       "fija": [
         {
-          "nombre": "Adler medio\nJager\nSalida multiple ext"
+          "nombre": "Adler medio"
+        },
+        {
+          "nombre": "Jager"
+        },
+        {
+          "nombre": "Salida multiple ext"
         }
       ]
     }
@@ -1042,32 +1987,65 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Giro adel Rebote\nDoble extendido atras\nDoble doble"
+          "nombre": "Giro adel Rebote"
+        },
+        {
+          "nombre": "Doble extendido atras"
+        },
+        {
+          "nombre": "Doble doble"
         }
       ],
       "arzon": [
         {
-          "nombre": "Driggs\nFloop\nSalida kolyvanov"
+          "nombre": "Driggs"
+        },
+        {
+          "nombre": "Floop"
+        },
+        {
+          "nombre": "Salida kolyvanov"
         }
       ],
       "anillos": [
         {
-          "nombre": "Azarian\nHirondell\nDoble doble"
+          "nombre": "Azarian"
+        },
+        {
+          "nombre": "Hirondell"
+        },
+        {
+          "nombre": "Doble doble"
         }
       ],
       "salto": [
         {
-          "nombre": "Tsukahara 1 1/2"
+          "nombre": "Tsukahara 1 1"
+        },
+        {
+          "nombre": "2"
         }
       ],
       "paralelas": [
         {
-          "nombre": "Felgue a manos\nZasaki\nPeters"
+          "nombre": "Felgue a manos"
+        },
+        {
+          "nombre": "Zasaki"
+        },
+        {
+          "nombre": "Peters"
         }
       ],
       "fija": [
         {
-          "nombre": "Tkachev ext\nKovacs\nSalida Doble doble"
+          "nombre": "Tkachev ext"
+        },
+        {
+          "nombre": "Kovacs"
+        },
+        {
+          "nombre": "Salida Doble doble"
         }
       ]
     }
@@ -1079,32 +2057,71 @@
     "aparatos": {
       "piso": [
         {
-          "nombre": "Rebotes\nAcrobacia basica"
+          "nombre": "Rebotes"
+        },
+        {
+          "nombre": "Acrobacia basica"
         }
       ],
       "arzon": [
         {
-          "nombre": "Driggs\nLining o Mikulak\nSohn o Bezugo"
+          "nombre": "Driggs"
+        },
+        {
+          "nombre": "Lining o Mikulak"
+        },
+        {
+          "nombre": "Sohn o Bezugo"
         }
       ],
       "anillos": [
         {
-          "nombre": "Hirondell\nAzarian\nNakayama"
+          "nombre": "Hirondell"
+        },
+        {
+          "nombre": "Azarian"
+        },
+        {
+          "nombre": "Nakayama"
         }
       ],
       "salto": [
         {
-          "nombre": "Bases de carrera\nRebote basico\nResorte\nRedondilla"
+          "nombre": "Bases de carrera"
+        },
+        {
+          "nombre": "Rebote basico"
+        },
+        {
+          "nombre": "Resorte"
+        },
+        {
+          "nombre": "Redondilla"
         }
       ],
       "paralelas": [
         {
-          "nombre": "Peters\nFelgue medio\nGigante diamidov"
+          "nombre": "Peters"
+        },
+        {
+          "nombre": "Felgue medio"
+        },
+        {
+          "nombre": "Gigante diamidov"
         }
       ],
       "fija": [
         {
-          "nombre": "Adler 1/2 - Kolman\nAdler giro\nWinkler"
+          "nombre": "Adler 1"
+        },
+        {
+          "nombre": "2 - Kolman"
+        },
+        {
+          "nombre": "Adler giro"
+        },
+        {
+          "nombre": "Winkler"
         }
       ]
     }
